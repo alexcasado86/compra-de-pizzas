@@ -35,7 +35,7 @@ Uma página para compra de pizzas, onde é possível abrir um modal com a pizza 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK]().
+Você pode visualizar o layout do projeto através [DESSE LINK](https://alexcasado86.github.io/compra-de-pizzas/).
 
 ## 🎖️ Licença
 
